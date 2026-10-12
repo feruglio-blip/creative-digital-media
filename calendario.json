@@ -16,7 +16,7 @@
   },
   {
    "id": "cd-029",
-   "quando": "2026-10-13 13:00",
+   "quando": "2026-10-12 18:30",
    "rubrica": "Opinione impopolare",
    "numero": "N. 001",
    "formato": "immagine",
@@ -28,7 +28,7 @@
   },
   {
    "id": "cd-030",
-   "quando": "2026-10-13 18:30",
+   "quando": "2026-10-12 21:30",
    "rubrica": "Bandiera rossa",
    "numero": "N. 002",
    "formato": "immagine",
@@ -40,7 +40,7 @@
   },
   {
    "id": "cd-002",
-   "quando": "2026-10-13 21:30",
+   "quando": "2026-10-13 13:00",
    "rubrica": "Opinione impopolare",
    "numero": "N. 002",
    "formato": "carosello",
@@ -54,7 +54,7 @@
   },
   {
    "id": "cd-003",
-   "quando": "2026-10-14 13:00",
+   "quando": "2026-10-13 18:30",
    "rubrica": "Verità da agenzia",
    "numero": "N. 001",
    "formato": "immagine",
@@ -66,7 +66,7 @@
   },
   {
    "id": "cd-031",
-   "quando": "2026-10-14 18:30",
+   "quando": "2026-10-13 21:30",
    "rubrica": "Verità da agenzia",
    "numero": "N. 002",
    "formato": "immagine",
@@ -78,7 +78,7 @@
   },
   {
    "id": "cd-004",
-   "quando": "2026-10-14 21:30",
+   "quando": "2026-10-14 13:00",
    "rubrica": "Verità da agenzia",
    "numero": "N. 003",
    "formato": "carosello",
@@ -97,7 +97,7 @@
   },
   {
    "id": "cd-005",
-   "quando": "2026-10-15 13:00",
+   "quando": "2026-10-14 18:30",
    "rubrica": "Bandiera rossa",
    "numero": "N. 003",
    "formato": "immagine",
@@ -109,7 +109,7 @@
   },
   {
    "id": "cd-032",
-   "quando": "2026-10-15 18:30",
+   "quando": "2026-10-14 21:30",
    "rubrica": "Opinione impopolare",
    "numero": "N. 003",
    "formato": "immagine",
@@ -121,7 +121,7 @@
   },
   {
    "id": "cd-006",
-   "quando": "2026-10-15 21:30",
+   "quando": "2026-10-15 13:00",
    "rubrica": "Opinione impopolare",
    "numero": "N. 004",
    "formato": "immagine",
@@ -133,7 +133,7 @@
   },
   {
    "id": "cd-007",
-   "quando": "2026-10-16 13:00",
+   "quando": "2026-10-15 18:30",
    "rubrica": "Verità da agenzia",
    "numero": "N. 004",
    "formato": "immagine",
@@ -145,7 +145,7 @@
   },
   {
    "id": "cd-033",
-   "quando": "2026-10-16 18:30",
+   "quando": "2026-10-15 21:30",
    "rubrica": "Bandiera rossa",
    "numero": "N. 004",
    "formato": "immagine",
@@ -157,7 +157,7 @@
   },
   {
    "id": "cd-008",
-   "quando": "2026-10-16 21:30",
+   "quando": "2026-10-16 13:00",
    "rubrica": "Opinione impopolare",
    "numero": "N. 005",
    "formato": "carosello",
@@ -171,7 +171,7 @@
   },
   {
    "id": "cd-009",
-   "quando": "2026-10-17 11:00",
+   "quando": "2026-10-16 18:30",
    "rubrica": "Bandiera rossa",
    "numero": "N. 005",
    "formato": "immagine",
@@ -183,7 +183,7 @@
   },
   {
    "id": "cd-034",
-   "quando": "2026-10-17 17:00",
+   "quando": "2026-10-16 21:30",
    "rubrica": "Verità da agenzia",
    "numero": "N. 005",
    "formato": "immagine",
@@ -195,7 +195,7 @@
   },
   {
    "id": "cd-010",
-   "quando": "2026-10-17 20:30",
+   "quando": "2026-10-17 11:00",
    "rubrica": "Verità da agenzia",
    "numero": "N. 006",
    "formato": "carosello",
@@ -213,7 +213,7 @@
   },
   {
    "id": "cd-011",
-   "quando": "2026-10-18 11:00",
+   "quando": "2026-10-17 17:00",
    "rubrica": "Il cliente ha detto",
    "numero": "N. 001",
    "formato": "carosello",
@@ -232,7 +232,7 @@
   },
   {
    "id": "cd-035",
-   "quando": "2026-10-18 17:00",
+   "quando": "2026-10-17 20:30",
    "rubrica": "Opinione impopolare",
    "numero": "N. 006",
    "formato": "immagine",
@@ -244,7 +244,7 @@
   },
   {
    "id": "cd-012",
-   "quando": "2026-10-18 20:30",
+   "quando": "2026-10-18 11:00",
    "rubrica": "Opinione impopolare",
    "numero": "N. 007",
    "formato": "immagine",
@@ -256,7 +256,7 @@
   },
   {
    "id": "cd-013",
-   "quando": "2026-10-19 13:00",
+   "quando": "2026-10-18 17:00",
    "rubrica": "Verità da agenzia",
    "numero": "N. 007",
    "formato": "immagine",
@@ -267,20 +267,8 @@
    "approvato": true
   },
   {
-   "id": "cd-036",
-   "quando": "2026-10-19 18:30",
-   "rubrica": "Bandiera rossa",
-   "numero": "N. 006",
-   "formato": "immagine",
-   "immagini": [
-    "posts/2026-10-19_36_ce-l-hai-per-ieri.png"
-   ],
-   "caption": "Inizia la settimana. Inizia l’urgenza.\n\n#vitadaagenzia #clienti #freelance #socialmediamanager",
-   "approvato": true
-  },
-  {
    "id": "cd-014",
-   "quando": "2026-10-19 21:30",
+   "quando": "2026-10-18 20:30",
    "rubrica": "Verità da agenzia",
    "numero": "N. 008",
    "formato": "carosello",
@@ -297,8 +285,20 @@
    "approvato": true
   },
   {
+   "id": "cd-036",
+   "quando": "2026-10-19 13:00",
+   "rubrica": "Bandiera rossa",
+   "numero": "N. 006",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-19_36_ce-l-hai-per-ieri.png"
+   ],
+   "caption": "Inizia la settimana. Inizia l’urgenza.\n\n#vitadaagenzia #clienti #freelance #socialmediamanager",
+   "approvato": true
+  },
+  {
    "id": "cd-015",
-   "quando": "2026-10-20 13:00",
+   "quando": "2026-10-19 18:30",
    "rubrica": "Bandiera rossa",
    "numero": "N. 007",
    "formato": "immagine",
@@ -310,7 +310,7 @@
   },
   {
    "id": "cd-016",
-   "quando": "2026-10-20 21:30",
+   "quando": "2026-10-19 21:30",
    "rubrica": "Opinione impopolare",
    "numero": "N. 008",
    "formato": "carosello",
@@ -324,7 +324,7 @@
   },
   {
    "id": "cd-017",
-   "quando": "2026-10-21 13:00",
+   "quando": "2026-10-20 13:00",
    "rubrica": "Verità da agenzia",
    "numero": "N. 009",
    "formato": "immagine",
@@ -336,7 +336,7 @@
   },
   {
    "id": "cd-018",
-   "quando": "2026-10-21 21:30",
+   "quando": "2026-10-20 18:30",
    "rubrica": "Opinione impopolare",
    "numero": "N. 009",
    "formato": "immagine",
@@ -348,7 +348,7 @@
   },
   {
    "id": "cd-019",
-   "quando": "2026-10-22 13:00",
+   "quando": "2026-10-20 21:30",
    "rubrica": "Bandiera rossa",
    "numero": "N. 008",
    "formato": "immagine",
@@ -360,7 +360,7 @@
   },
   {
    "id": "cd-020",
-   "quando": "2026-10-22 21:30",
+   "quando": "2026-10-21 13:00",
    "rubrica": "Verità da agenzia",
    "numero": "N. 010",
    "formato": "carosello",
@@ -378,7 +378,7 @@
   },
   {
    "id": "cd-021",
-   "quando": "2026-10-23 13:00",
+   "quando": "2026-10-21 18:30",
    "rubrica": "Verità da agenzia",
    "numero": "N. 011",
    "formato": "immagine",
@@ -390,7 +390,7 @@
   },
   {
    "id": "cd-022",
-   "quando": "2026-10-23 21:30",
+   "quando": "2026-10-21 21:30",
    "rubrica": "Opinione impopolare",
    "numero": "N. 010",
    "formato": "carosello",
@@ -404,7 +404,7 @@
   },
   {
    "id": "cd-023",
-   "quando": "2026-10-24 11:00",
+   "quando": "2026-10-22 13:00",
    "rubrica": "Opinione impopolare",
    "numero": "N. 011",
    "formato": "immagine",
@@ -416,7 +416,7 @@
   },
   {
    "id": "cd-024",
-   "quando": "2026-10-24 20:30",
+   "quando": "2026-10-22 18:30",
    "rubrica": "Bandiera rossa",
    "numero": "N. 009",
    "formato": "immagine",
@@ -428,7 +428,7 @@
   },
   {
    "id": "cd-025",
-   "quando": "2026-10-25 11:00",
+   "quando": "2026-10-22 21:30",
    "rubrica": "Verità da agenzia",
    "numero": "N. 012",
    "formato": "immagine",
@@ -440,7 +440,7 @@
   },
   {
    "id": "cd-026",
-   "quando": "2026-10-25 20:30",
+   "quando": "2026-10-23 13:00",
    "rubrica": "Opinione impopolare",
    "numero": "N. 012",
    "formato": "carosello",
@@ -454,7 +454,7 @@
   },
   {
    "id": "cd-027",
-   "quando": "2026-10-26 13:00",
+   "quando": "2026-10-23 18:30",
    "rubrica": "Verità da agenzia",
    "numero": "N. 013",
    "formato": "carosello",
@@ -472,7 +472,7 @@
   },
   {
    "id": "cd-028",
-   "quando": "2026-10-26 21:30",
+   "quando": "2026-10-23 21:30",
    "rubrica": "Opinione impopolare",
    "numero": "N. 013",
    "formato": "immagine",
