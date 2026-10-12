@@ -17,7 +17,7 @@ API = "https://graph.instagram.com/v23.0"
 FINESTRA_MIN = int(os.environ.get("FINESTRA_MIN", "120"))
 TOKEN = os.environ["INSTAGRAM_ACCESS_TOKEN"]
 SOLO_ID = os.environ.get("SOLO_ID", "").strip()  # pubblicazione manuale di un post
-PROVA = os.environ.get("PROVA", "false").lower() == "true"  # non pubblica, mostra cosa farebbe
+PROVA = os.environ.get("PROVA", "false").lower() == "true"  # prepara il post su Instagram senza pubblicarlo
 
 
 def chiama(metodo, percorso, **parametri):
@@ -45,7 +45,7 @@ def aspetta_pronto(contenitore):
     raise RuntimeError(f"contenitore {contenitore} non pronto dopo 150 secondi")
 
 
-def pubblica(post, base_url, utente):
+def pubblica(post, base_url, utente, prova=False):
     urls = [base_url + p for p in post["immagini"]]
     if len(urls) == 1:
         c = chiama("POST", f"{utente}/media", image_url=urls[0], caption=post["caption"])["id"]
@@ -59,6 +59,8 @@ def pubblica(post, base_url, utente):
         c = chiama("POST", f"{utente}/media", media_type="CAROUSEL",
                    children=",".join(figli), caption=post["caption"])["id"]
     aspetta_pronto(c)
+    if prova:
+        return None  # contenitore pronto: immagini e caption accettate, ma niente pubblicazione
     return chiama("POST", f"{utente}/media_publish", creation_id=c)["id"]
 
 
@@ -89,11 +91,11 @@ def main():
     errori = 0
     for p in da_fare:
         print(f"Pubblico {p['id']} ({p['rubrica']} {p['numero']}, {len(p['immagini'])} immagini)")
-        if PROVA:
-            print("  prova: non pubblicato")
-            continue
         try:
-            mid = pubblica(p, cal["base_url"], uid)
+            mid = pubblica(p, cal["base_url"], uid, prova=PROVA)
+            if PROVA:
+                print("  prova riuscita: Instagram ha accettato immagini e caption, post NON pubblicato")
+                continue
             reg["pubblicati"][p["id"]] = {"media_id": mid, "il": datetime.now(fuso).isoformat(timespec="minutes")}
             print(f"  pubblicato, media {mid}")
         except Exception as e:  # un post fallito non blocca gli altri
