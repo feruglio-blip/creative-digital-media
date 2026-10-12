@@ -1,0 +1,21 @@
+name: Prova pubblicazione (non pubblica)
+
+# Prepara su Instagram il primo post singolo e il primo carosello senza pubblicarli:
+# controlla token, account, immagini e caption. Non esce niente sul profilo.
+on:
+  workflow_dispatch:
+
+jobs:
+  prova:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Prova su cd-001 (immagine) e cd-002 (carosello)
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          SOLO_ID: "cd-001,cd-002"
+          PROVA: "true"
+        run: python scripts/pubblica.py

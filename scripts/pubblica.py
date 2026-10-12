@@ -16,7 +16,7 @@ from zoneinfo import ZoneInfo
 API = "https://graph.instagram.com/v23.0"
 FINESTRA_MIN = int(os.environ.get("FINESTRA_MIN", "120"))
 TOKEN = os.environ["INSTAGRAM_ACCESS_TOKEN"]
-SOLO_ID = os.environ.get("SOLO_ID", "").strip()  # pubblicazione manuale di un post
+SOLO_ID = [x.strip() for x in os.environ.get("SOLO_ID", "").split(",") if x.strip()]  # uno o più post, separati da virgola
 PROVA = os.environ.get("PROVA", "false").lower() == "true"  # prepara il post su Instagram senza pubblicarlo
 
 
@@ -79,7 +79,7 @@ def main():
             continue
         quando = datetime.strptime(p["quando"], "%Y-%m-%d %H:%M").replace(tzinfo=fuso)
         if SOLO_ID:
-            if p["id"] == SOLO_ID:
+            if p["id"] in SOLO_ID:
                 da_fare.append(p)
         elif quando <= adesso < quando + timedelta(minutes=FINESTRA_MIN):
             da_fare.append(p)
