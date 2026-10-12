@@ -1,0 +1,31 @@
+name: Rinnova token Instagram
+
+on:
+  schedule:
+    # il 1 e il 15 di ogni mese alle 06:17 UTC; il token dura 60 giorni
+    - cron: "17 6 1,15 * *"
+  workflow_dispatch:
+
+jobs:
+  rinnova:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Rinnova e aggiorna il secret
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          set -e
+          risposta=$(curl -sS --fail-with-body "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${INSTAGRAM_ACCESS_TOKEN}")
+          nuovo=$(echo "$risposta" | python3 -c "import sys,json; print(json.load(sys.stdin)['access_token'])")
+          giorni=$(echo "$risposta" | python3 -c "import sys,json; print(int(json.load(sys.stdin).get('expires_in',0))//86400)")
+          echo "::add-mask::$nuovo"
+          echo "Token rinnovato, valido per altri $giorni giorni."
+          if [ "$nuovo" != "$INSTAGRAM_ACCESS_TOKEN" ]; then
+            if [ -z "$GH_TOKEN" ]; then
+              echo "Il token è cambiato ma manca il secret GH_PAT per salvarlo." >&2
+              exit 1
+            fi
+            gh secret set INSTAGRAM_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" --body "$nuovo"
+            echo "Secret aggiornato."
+          fi
