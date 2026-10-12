@@ -1,3 +1,9 @@
 {
-  "pubblicati": {}
+  "pubblicati": {
+    "cd-001": {
+      "media_id": "18113935772033091",
+      "il": "2026-10-12T14:27+02:00",
+      "note": "pubblicato a mano dal Mac"
+    }
+  }
 }
