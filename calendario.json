@@ -96,58 +96,58 @@
    "approvato": true
   },
   {
-   "id": "cd-005",
+   "id": "cd-037",
    "quando": "2026-10-14 18:30",
-   "rubrica": "Bandiera rossa",
+   "rubrica": "Opinione impopolare",
    "numero": "N. 003",
    "formato": "immagine",
    "immagini": [
-    "posts/2026-10-15_05_ci-vuole-un-attimo-lo-faresti-anche-tu.png"
+    "posts/2026-10-14_37_non-e-il-mio-blocco-creativo-e-il-tuo-br.png"
    ],
-   "caption": "Quante bandiere rosse hai collezionato questo mese?\n\n#vitadaagenzia #clienti #freelance #socialmediamanager",
-   "approvato": false
+   "caption": "Lo pensiamo tutti. Qualcuno doveva scriverlo.\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
+   "approvato": true
   },
   {
-   "id": "cd-032",
+   "id": "cd-038",
    "quando": "2026-10-14 21:30",
-   "rubrica": "Opinione impopolare",
-   "numero": "N. 003",
-   "formato": "immagine",
-   "immagini": [
-    "posts/2026-10-15_32_chi-si-presenta-come-creativo-spesso-non.png"
-   ],
-   "caption": "Il titolo lo dà il lavoro, non la bio. Sei d’accordo?\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
-   "approvato": false
-  },
-  {
-   "id": "cd-006",
-   "quando": "2026-10-15 13:00",
-   "rubrica": "Opinione impopolare",
-   "numero": "N. 004",
-   "formato": "immagine",
-   "immagini": [
-    "posts/2026-10-15_06_se-il-tuo-portfolio-piace-a-tutti-non-e.png"
-   ],
-   "caption": "Il tuo divide o mette d'accordo tutti? Sii onesto nei commenti.\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
-   "approvato": false
-  },
-  {
-   "id": "cd-007",
-   "quando": "2026-10-15 18:30",
    "rubrica": "Verità da agenzia",
    "numero": "N. 004",
    "formato": "immagine",
    "immagini": [
-    "posts/2026-10-16_07_le-idee-migliori-arrivano-sempre-dopo-ch.png"
+    "posts/2026-10-14_38_lavoro-in-agenzia-sorrido-in-call-mentre.png"
    ],
-   "caption": "Di solito sotto la doccia. O alle 2 di notte.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
-   "approvato": false
+   "caption": "Camera accesa, anima spenta.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-039",
+   "quando": "2026-10-15 13:00",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 005",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-15_39_mi-piace-pero-ecco-li-e-finita-la-mia-g.png"
+   ],
+   "caption": "Il però più costoso della settimana.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-040",
+   "quando": "2026-10-15 18:30",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 006",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-15_40_chiamatelo-burnout-io-lo-chiamo-terza-re.png"
+   ],
+   "caption": "Oggi è giovedì. Fate voi.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
   },
   {
    "id": "cd-033",
    "quando": "2026-10-15 21:30",
    "rubrica": "Bandiera rossa",
-   "numero": "N. 004",
+   "numero": "N. 003",
    "formato": "immagine",
    "immagini": [
     "posts/2026-10-16_33_il-logo-lo-puoi-fare-un-po-piu-grande.png"
@@ -156,36 +156,34 @@
    "approvato": true
   },
   {
-   "id": "cd-008",
+   "id": "cd-041",
    "quando": "2026-10-16 13:00",
-   "rubrica": "Opinione impopolare",
-   "numero": "N. 005",
-   "formato": "carosello",
-   "immagini": [
-    "posts/2026-10-16_08_lavorare-gratis-per-la-visibilita-e-paga_1.png",
-    "posts/2026-10-16_08_lavorare-gratis-per-la-visibilita-e-paga_2.png",
-    "posts/2026-10-16_08_lavorare-gratis-per-la-visibilita-e-paga_3.png"
-   ],
-   "caption": "Ci siamo passati tutti. Tu da che parte stai adesso?\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
-   "approvato": false
-  },
-  {
-   "id": "cd-009",
-   "quando": "2026-10-16 18:30",
-   "rubrica": "Bandiera rossa",
-   "numero": "N. 005",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 007",
    "formato": "immagine",
    "immagini": [
-    "posts/2026-10-17_09_mio-nipote-e-bravo-con-canva.png"
+    "posts/2026-10-16_41_non-odio-i-clienti-odio-le-note-vocali-d.png"
    ],
-   "caption": "Ogni agenzia ha incontrato il nipote almeno una volta.\n\n#vitadaagenzia #clienti #freelance #socialmediamanager",
-   "approvato": false
+   "caption": "Anche a velocità 2x restano troppo lunghe.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-042",
+   "quando": "2026-10-16 18:30",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 008",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-16_42_ogni-mail-con-oggetto-piccola-cosa-mi-fa.png"
+   ],
+   "caption": "Non è mai piccola. Non è mai una cosa sola.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
   },
   {
    "id": "cd-034",
    "quando": "2026-10-16 21:30",
    "rubrica": "Verità da agenzia",
-   "numero": "N. 005",
+   "numero": "N. 009",
    "formato": "immagine",
    "immagini": [
     "posts/2026-10-17_34_il-feedback-arriva-sempre-il-venerdi-all.png"
@@ -197,7 +195,7 @@
    "id": "cd-010",
    "quando": "2026-10-17 11:00",
    "rubrica": "Verità da agenzia",
-   "numero": "N. 006",
+   "numero": "N. 010",
    "formato": "carosello",
    "immagini": [
     "posts/2026-10-17_10_segnali-che-fai-il-creativo-da-troppo-te_1.png",
@@ -231,22 +229,22 @@
    "approvato": true
   },
   {
-   "id": "cd-035",
+   "id": "cd-043",
    "quando": "2026-10-17 20:30",
-   "rubrica": "Opinione impopolare",
-   "numero": "N. 006",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 011",
    "formato": "immagine",
    "immagini": [
-    "posts/2026-10-18_35_se-il-cliente-non-sa-cosa-vuole-le-doman.png"
+    "posts/2026-10-17_43_il-weekend-e-quella-cosa-che-finisce-qua.png"
    ],
-   "caption": "Colpa del cliente o di chi non ha chiesto? Dillo nei commenti.\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
-   "approvato": false
+   "caption": "Visualizzato alle 22:47 di sabato. Facciamo finta di no.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
   },
   {
    "id": "cd-012",
    "quando": "2026-10-18 11:00",
    "rubrica": "Opinione impopolare",
-   "numero": "N. 007",
+   "numero": "N. 004",
    "formato": "immagine",
    "immagini": [
     "posts/2026-10-18_12_una-moodboard-di-pinterest-non-e-una-str.png"
@@ -255,22 +253,22 @@
    "approvato": true
   },
   {
-   "id": "cd-013",
+   "id": "cd-044",
    "quando": "2026-10-18 17:00",
-   "rubrica": "Verità da agenzia",
-   "numero": "N. 007",
+   "rubrica": "Opinione impopolare",
+   "numero": "N. 005",
    "formato": "immagine",
    "immagini": [
-    "posts/2026-10-19_13_fare-il-creativo-non-e-un-hobby-pagato-e.png"
+    "posts/2026-10-18_44_l-ai-non-mi-rubera-il-lavoro-me-lo-ruber.png"
    ],
-   "caption": "Mandalo a chi ti chiede ancora quando ti trovi un lavoro vero.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
-   "approvato": false
+   "caption": "Il cugino c’è sempre stato. Adesso ha pure l’abbonamento.\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
+   "approvato": true
   },
   {
    "id": "cd-014",
    "quando": "2026-10-18 20:30",
    "rubrica": "Verità da agenzia",
-   "numero": "N. 008",
+   "numero": "N. 012",
    "formato": "carosello",
    "immagini": [
     "posts/2026-10-19_14_il-dizionario-dell-agenzia_1.png",
@@ -285,34 +283,34 @@
    "approvato": true
   },
   {
-   "id": "cd-036",
+   "id": "cd-045",
    "quando": "2026-10-19 13:00",
-   "rubrica": "Bandiera rossa",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 013",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-19_45_ho-un-rapporto-sano-con-il-lavoro-lo-odi.png"
+   ],
+   "caption": "Buon inizio settimana. Si fa per dire.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-046",
+   "quando": "2026-10-19 18:30",
+   "rubrica": "Opinione impopolare",
    "numero": "N. 006",
    "formato": "immagine",
    "immagini": [
-    "posts/2026-10-19_36_ce-l-hai-per-ieri.png"
+    "posts/2026-10-19_46_non-sono-lento-sei-tu-che-hai-cambiato-i.png"
    ],
-   "caption": "Inizia la settimana. Inizia l’urgenza.\n\n#vitadaagenzia #clienti #freelance #socialmediamanager",
-   "approvato": false
-  },
-  {
-   "id": "cd-015",
-   "quando": "2026-10-19 18:30",
-   "rubrica": "Bandiera rossa",
-   "numero": "N. 007",
-   "formato": "immagine",
-   "immagini": [
-    "posts/2026-10-20_15_lo-vogliamo-virale.png"
-   ],
-   "caption": "Virale si diventa, non si ordina.\n\n#vitadaagenzia #clienti #freelance #socialmediamanager",
-   "approvato": false
+   "caption": "Tagga chi ti ha fatto rifare tutto ieri.\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
+   "approvato": true
   },
   {
    "id": "cd-016",
    "quando": "2026-10-19 21:30",
    "rubrica": "Opinione impopolare",
-   "numero": "N. 008",
+   "numero": "N. 007",
    "formato": "carosello",
    "immagini": [
     "posts/2026-10-20_16_un-logo-non-deve-piacerti-deve-funzionar_1.png",
@@ -326,7 +324,7 @@
    "id": "cd-017",
    "quando": "2026-10-20 13:00",
    "rubrica": "Verità da agenzia",
-   "numero": "N. 009",
+   "numero": "N. 014",
    "formato": "immagine",
    "immagini": [
     "posts/2026-10-21_17_un-buon-progetto-si-vede-anche-da-quello.png"
@@ -338,7 +336,7 @@
    "id": "cd-018",
    "quando": "2026-10-20 18:30",
    "rubrica": "Opinione impopolare",
-   "numero": "N. 009",
+   "numero": "N. 008",
    "formato": "immagine",
    "immagini": [
     "posts/2026-10-21_18_il-tuo-stile-non-e-uno-stile-se-lo-cambi.png"
@@ -347,22 +345,22 @@
    "approvato": true
   },
   {
-   "id": "cd-019",
+   "id": "cd-047",
    "quando": "2026-10-20 21:30",
-   "rubrica": "Bandiera rossa",
-   "numero": "N. 008",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 015",
    "formato": "immagine",
    "immagini": [
-    "posts/2026-10-22_19_facciamo-una-call-veloce.png"
+    "posts/2026-10-20_47_spero-che-chi-ha-inventato-un-giro-veloc.png"
    ],
-   "caption": "Quante call veloci hai fatto oggi?\n\n#vitadaagenzia #clienti #freelance #socialmediamanager",
-   "approvato": false
+   "caption": "Non è cattiveria. È giustizia.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
   },
   {
    "id": "cd-020",
    "quando": "2026-10-21 13:00",
    "rubrica": "Verità da agenzia",
-   "numero": "N. 010",
+   "numero": "N. 016",
    "formato": "carosello",
    "immagini": [
     "posts/2026-10-22_20_verita-sul-lavoro-da-freelance_1.png",
@@ -380,7 +378,7 @@
    "id": "cd-021",
    "quando": "2026-10-21 18:30",
    "rubrica": "Verità da agenzia",
-   "numero": "N. 011",
+   "numero": "N. 017",
    "formato": "immagine",
    "immagini": [
     "posts/2026-10-23_21_il-lavoro-creativo-e-l-unico-in-cui-il-c.png"
@@ -392,7 +390,7 @@
    "id": "cd-022",
    "quando": "2026-10-21 21:30",
    "rubrica": "Opinione impopolare",
-   "numero": "N. 010",
+   "numero": "N. 009",
    "formato": "carosello",
    "immagini": [
     "posts/2026-10-23_22_il-cliente-non-ha-sempre-ragione-ha-semp_1.png",
@@ -406,7 +404,7 @@
    "id": "cd-023",
    "quando": "2026-10-22 13:00",
    "rubrica": "Opinione impopolare",
-   "numero": "N. 011",
+   "numero": "N. 010",
    "formato": "immagine",
    "immagini": [
     "posts/2026-10-24_23_l-ai-non-e-il-problema-il-problema-sono.png"
@@ -418,7 +416,7 @@
    "id": "cd-024",
    "quando": "2026-10-22 18:30",
    "rubrica": "Bandiera rossa",
-   "numero": "N. 009",
+   "numero": "N. 004",
    "formato": "immagine",
    "immagini": [
     "posts/2026-10-24_24_lo-approvo-io-poi-lo-faccio-vedere-al-c.png"
@@ -430,7 +428,7 @@
    "id": "cd-025",
    "quando": "2026-10-22 21:30",
    "rubrica": "Verità da agenzia",
-   "numero": "N. 012",
+   "numero": "N. 018",
    "formato": "immagine",
    "immagini": [
     "posts/2026-10-25_25_difendere-un-idea-fa-parte-del-progetto.png"
@@ -442,7 +440,7 @@
    "id": "cd-026",
    "quando": "2026-10-23 13:00",
    "rubrica": "Opinione impopolare",
-   "numero": "N. 012",
+   "numero": "N. 011",
    "formato": "carosello",
    "immagini": [
     "posts/2026-10-25_26_le-revisioni-infinite-sono-colpa-dell-ag_1.png",
@@ -456,7 +454,7 @@
    "id": "cd-027",
    "quando": "2026-10-23 18:30",
    "rubrica": "Verità da agenzia",
-   "numero": "N. 013",
+   "numero": "N. 019",
    "formato": "carosello",
    "immagini": [
     "posts/2026-10-26_27_cose-che-si-imparano-solo-dopo-il-primo_1.png",
@@ -474,12 +472,96 @@
    "id": "cd-028",
    "quando": "2026-10-23 21:30",
    "rubrica": "Opinione impopolare",
-   "numero": "N. 013",
+   "numero": "N. 012",
    "formato": "immagine",
    "immagini": [
     "posts/2026-10-26_28_un-idea-che-non-ti-fa-un-po-paura-e-solo.png"
    ],
    "caption": "Qual è l'ultima idea che ti ha fatto paura?\nScrivi la tua risposta nei commenti.\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-048",
+   "quando": "2026-10-24 11:00",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 020",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-24_48_ti-faccio-sapere-e-la-frase-piu-crudele.png"
+   ],
+   "caption": "Sono passati 23 giorni. Sto ancora aspettando.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-049",
+   "quando": "2026-10-24 17:00",
+   "rubrica": "Opinione impopolare",
+   "numero": "N. 013",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-24_49_il-cliente-non-ha-bisogno-di-un-rebrandi.png"
+   ],
+   "caption": "Seduta di tre ore, in agenda come “allineamento”.\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-050",
+   "quando": "2026-10-24 20:30",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 021",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-24_50_non-sono-antipatico-ho-solo-letto-la-tua.png"
+   ],
+   "caption": "La risposta era alla terza riga. Come sempre.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-051",
+   "quando": "2026-10-25 11:00",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 022",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-25_51_l-unico-feedback-utile-che-ho-ricevuto-q.png"
+   ],
+   "caption": "Tutto il resto era “mi piace, però”.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-052",
+   "quando": "2026-10-25 17:00",
+   "rubrica": "Opinione impopolare",
+   "numero": "N. 014",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-25_52_fai-una-proposta-poi-vediamo-e-il-modo.png"
+   ],
+   "caption": "Le proposte si pagano. Punto.\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-053",
+   "quando": "2026-10-25 20:30",
+   "rubrica": "Verità da agenzia",
+   "numero": "N. 023",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-25_53_non-mi-serve-un-coach-motivazionale-mi-s.png"
+   ],
+   "caption": "Giugno di quest’anno, almeno.\n\n#vitadaagenzia #creativi #graphicdesign #designitalia",
+   "approvato": true
+  },
+  {
+   "id": "cd-054",
+   "quando": "2026-10-26 13:00",
+   "rubrica": "Opinione impopolare",
+   "numero": "N. 015",
+   "formato": "immagine",
+   "immagini": [
+    "posts/2026-10-26_54_il-cliente-ha-il-diritto-di-cambiare-ide.png"
+   ],
+   "caption": "Le modifiche extra si contano. E si pagano.\n\n#vitadaagenzia #creativi #opinioneimpopolare #designitalia",
    "approvato": true
   }
  ]
